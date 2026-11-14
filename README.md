@@ -3,6 +3,8 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![Zero Network](https://img.shields.io/badge/network-zero-green.svg)](#privacy--offline)
+[![CI](https://github.com/deivycom21-cell/context-bloat/actions/workflows/ci.yml/badge.svg)](https://github.com/deivycom21-cell/context-bloat/actions/workflows/ci.yml)
+[![PyPI](https://img.shields.io/pypi/v/context-bloat.svg)](https://pypi.org/project/context-bloat/)
 
 Audit and optimize token bloat in AI agent repositories.
 
