@@ -1,0 +1,10 @@
+dist/
+build/
+__pycache__/
+.venv/
+*.egg-info/
+*.pyc
+*.pyo
+.pytest_cache/
+.ruff_cache/
+*.optimized.md
